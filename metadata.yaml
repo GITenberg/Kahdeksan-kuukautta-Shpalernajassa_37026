@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4879
     wikipedia: http://fi.wikipedia.org/wiki/Ky%C3%B6sti_Wilkuna
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37026#Kahdeksan-kuukautta-Shpalernajassa
 gutenberg_issued: '2011-08-10'
 gutenberg_type: Text
 identifiers:
